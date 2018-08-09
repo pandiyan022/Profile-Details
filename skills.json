@@ -11,13 +11,18 @@
     "proficiencyPercent": "60"
   },
   {
-    "name": "Xamarin.Android",
+    "name": "C# Basics",
     "category": "Languages",
+    "proficiencyPercent": "60"
+  },
+  {
+    "name": "Xamarin.Android",
+    "category": "Top Skill",
     "proficiencyPercent": "50"
   },
   {
     "name": "Xamarin.Forms",
-    "category": "Languages",
+    "category": "Top Skill",
     "proficiencyPercent": "50"
   },
   {
@@ -52,12 +57,12 @@
   },
   {
     "name": "J Query Basics",
-    "category": "Tools",
+    "category": "Languages",
     "proficiencyPercent": "40"
   },
   {
     "name": "PhoneGap & Cordova",
-    "category": "Tools",
+    "category": "Top Skill",
     "proficiencyPercent": "60"
   }
 ]
