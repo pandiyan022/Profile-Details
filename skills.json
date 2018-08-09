@@ -17,12 +17,12 @@
   },
   {
     "name": "Xamarin.Android",
-    "category": "Top Skill",
+    "category": "Top Skills",
     "proficiencyPercent": "50"
   },
   {
     "name": "Xamarin.Forms",
-    "category": "Top Skill",
+    "category": "Top Skills",
     "proficiencyPercent": "50"
   },
   {
@@ -62,7 +62,7 @@
   },
   {
     "name": "PhoneGap & Cordova",
-    "category": "Top Skill",
+    "category": "Top Skills",
     "proficiencyPercent": "60"
   }
 ]
