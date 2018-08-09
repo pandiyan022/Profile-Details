@@ -1,0 +1,63 @@
+[
+
+  {
+    "name": "Android Development",
+    "category": "Top Skills",
+    "proficiencyPercent": "90"
+  },
+  {
+    "name": "Java Basics",
+    "category": "Languages",
+    "proficiencyPercent": "60"
+  },
+  {
+    "name": "Xamarin.Android",
+    "category": "Languages",
+    "proficiencyPercent": "50"
+  },
+  {
+    "name": "Xamarin.Forms",
+    "category": "Languages",
+    "proficiencyPercent": "50"
+  },
+  {
+    "name": "MySQL",
+    "category": "Languages",
+    "proficiencyPercent": "50"
+  },
+  {
+    "name": "Dependency Injection",
+    "category": "Tools",
+    "proficiencyPercent": "50"
+  },
+  {
+    "name": "Data Binding",
+    "category": "Tools",
+    "proficiencyPercent": "50"
+  },
+  {
+    "name": "RxJava",
+    "category": "Tools",
+    "proficiencyPercent": "40"
+  },
+  {
+    "name": "Retrofit",
+    "category": "Tools",
+    "proficiencyPercent": "100"
+  },
+  {
+    "name": "JSON libraries",
+    "category": "Tools",
+    "proficiencyPercent": "80"
+  },
+  {
+    "name": "J Query Basics",
+    "category": "Tools",
+    "proficiencyPercent": "40"
+  },
+  {
+    "name": "PhoneGap & Cordova",
+    "category": "Tools",
+    "proficiencyPercent": "60"
+  }
+]

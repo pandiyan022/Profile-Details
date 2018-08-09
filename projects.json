@@ -1,0 +1,73 @@
+
+[
+{
+	"name": "Almondz",
+	"organisation": "Value Soft Solution",
+	"position": "Android Developer",
+	"date": "2012-04-01 12:00:00",
+	"description": "Almondz insurance application serves as bridge between insurance providers and employees of Corporate. Application content is controlled by the admin panel.",
+    "roleDescription":""
+
+},
+{
+    "name": "MyBusMate",
+	"organisation": "XYKA Software Tech.",
+	"position": "Android Developer",
+	"date": "2014-11-12 12:00:00",
+	"description": "MyBusMate App was developed to track the student by mobile device. Three apps are involved : Geo-tracker, Parent App (MyBusMate) On-board App (MyBusMate)",
+    "roleDescription":""
+
+},
+{
+    "name": "Grow your practise",
+	"organisation": "Eclinic247",
+	"position": "Android Developer",
+	"date": "2015-11-12 12:00:00",
+	"description": "The doctor facing Android application to the Eclinic247 platform",
+    "roleDescription":""
+
+}
+{
+	"name": "QuikFormz",
+	"organisation": "Orient Technologies",
+	"position": "Software Engineer",
+	"date": "2016-07-01 12:00:00",
+	"description": "Quikformz application enables the field workers to punch details of their daily work into the server. since they are moving from one place to another, this app reduces the need to rely on a single system to update their work, thus maximizing productivity.",
+    "roleDescription":""
+
+},
+{
+	"name": "TaxiAppz",
+	"organisation": "Nplus Technologies",
+	"position": "Software Engineer / Mobile Team lead ",
+	"date": "2016-04-20 12:00:00",
+	"description": "A Uber clone used for taxi booking. This contains two apps namely customer and driver app. When a customer raises a ride request the nearest available driver is chosen and assigned.",
+    "roleDescription":""
+},
+{
+	"name": "Mathematainment",
+	"organisation": "Utthunga Technologies Pvt.Ltd.",
+	"position": "Senior Software Engineer",
+	"date": "2017-04-20 12:00:00",
+	"description": "Mathematainment is a unique new powerful marketplace for Educational contents. Mathematainment offers its members potential to earn while they are also learning. Mathematainment has been designed for anyone interested in receiving or offering educational contents to a large audience. Mathematainment provides a fantastic range of courses from top content creators around the globe.",
+    "roleDescription":""
+},
+{
+	"name": "MasterLink",
+	"organisation": "Utthunga Technologies Pvt.Ltd.",
+	"position": "Senior Software Engineer",
+	"date": "2017-04-20 12:00:00",
+	"description": "MasterLink is a Mobile App used for Configuration and Calibration of Electronic Volume Correctors and Cellular Modems used in Gas Metering Solution.",
+	"roleDescription":" " 
+
+},
+{
+	"name": "ProLink Mobile",
+	"organisation": "Senior Software Engineer",
+	"position": "Bachelor of Technology",
+	"date": "2018-04-20 12:00:00",
+	"description": ".",
+    "roleDescription":""
+}
+]
+
